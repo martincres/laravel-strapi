@@ -1,5 +1,5 @@
 {
-    "name": "visiion/dbfx/laravel-strapi",
+    "name": "mc/dbfx/laravel-strapi",
     "description": "Laravel wrapper for using the Strapi headless CMS",
     "license": "MIT",
     "keywords": [
