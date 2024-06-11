@@ -1,5 +1,5 @@
 {
-    "name": "mc/laravel-strapi",
+    "name": "martincres/laravel-strapi",
     "description": "Laravel wrapper for using the Strapi headless CMS",
     "license": "MIT",
     "keywords": [
